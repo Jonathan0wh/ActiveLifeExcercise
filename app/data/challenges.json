@@ -1,0 +1,23 @@
+[
+  {
+    "count_down": "23 days left",
+    "status": "Ongoing",
+    "image_url": "https://s3-ap-southeast-2.amazonaws.com/active-life/challenges/most_active.jpg", 
+    "name": "The Most Active", 
+    "type": "leaderboard"
+  },
+  {
+    "count_down": "2 days left",
+    "status": "Upcoming",
+    "image_url": "https://s3.ap-southeast-2.amazonaws.com/active-life/challenges/sunday_funday.jpg", 
+    "name": "Sunday Funday", 
+    "type": "timer"
+  },
+  {
+    "count_down": "3 days left",
+    "status": "Upcoming",
+    "image_url": "https://s3.ap-southeast-2.amazonaws.com/active-life/challenges/workweek_warrior.jpg", 
+    "name": "Monday Madness", 
+    "type": "timer"
+  }
+]
